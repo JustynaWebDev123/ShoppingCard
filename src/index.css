@@ -69,7 +69,7 @@ img:hover{
 
 
 aside{
-  background-image: url("C:\Users\justy\shopping-card\src\6222603.jpg");
+  background-image: url('./6222603.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
